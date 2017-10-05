@@ -1,6 +1,6 @@
 {
   "name": "chai-kerouac-middleware",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Helpers for testing Kerouac middleware with the Chai assertion library.",
   "keywords": [
     "chai",
