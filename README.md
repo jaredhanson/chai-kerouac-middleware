@@ -20,6 +20,4 @@ with the [Chai](http://chaijs.com/) assertion library.
 
 Copyright (c) 2017 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/vK9dyjRnnWsMzzJTQ57fRJpH/jaredhanson/chai-kerouac-middleware'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/vK9dyjRnnWsMzzJTQ57fRJpH/jaredhanson/chai-kerouac-middleware.svg' />
-</a>
+
