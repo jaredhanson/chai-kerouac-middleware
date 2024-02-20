@@ -10,6 +10,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.2] - 2017-09-29
 
+### Added
+
+- Exported `Site` constructor, used as a mock object within tests.
+
 ## [0.0.1] - 2017-09-29
 
 - Initial release.
